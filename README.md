@@ -13,11 +13,9 @@
     <h1>Hello!</h1>
     <h2>저는 개발을 좋아하는 평범한 학생 개발자 입니다.</h2><br>
 
-    My skiil
-    
-        Python
-        JavaScript
-        Java
+    My skill
+       🥨Python🥨
+       🥨Java🥨
    
 </body>
 </html>
