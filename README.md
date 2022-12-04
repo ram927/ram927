@@ -13,20 +13,12 @@
     <h1>Hello!</h1>
     <h2>저는 개발을 좋아하는 평범한 학생 개발자 입니다.</h2><br>
 
-    <h1>My skiil</h1>
-    <li>
-        <ul>Python</ul>
-        <ul>JavaScript</ul>
-        <ul>Java</ul>
-        <ul>Kotlin</ul>
-    </li><br>
-
-    <h1>Learn</h1>
-    <li>
-        <ul>CS</ul>
-        <ul>C++</ul>
-    </li>
-
+    My skiil
+    
+        Python
+        JavaScript
+        Java
+   
 </body>
 </html>
 
