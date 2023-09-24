@@ -11,10 +11,7 @@
 <body>
     <h1>Hello!</h1>
     <h2>I am a student who likes programing. But I can't do programing well lol</h2><br>
-    <h2>My skills</h2>
-    <h3>React</h3>
-    <h3>JS</h3>
-    <h3>Tailwind</h3>
+
         
 </body>
 </html>
