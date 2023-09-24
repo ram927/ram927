@@ -10,6 +10,9 @@
 </head>
 <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mynxun1&fontSize=90" />
+	<h1>My Skills😀</h1>
+	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=TypeScript&logoColor=white"/>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram927&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=ram927&show_icons=true">
 
