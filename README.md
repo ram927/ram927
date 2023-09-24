@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 
 <!DOCTYPE html>
@@ -9,8 +9,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-    <h1>Hello!</h1>
-    <h2>I am a student who likes programing. But I can't do programing well lol</h2><br>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mynxun1&fontSize=90" />
 
         
 </body>
