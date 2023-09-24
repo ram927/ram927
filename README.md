@@ -14,6 +14,7 @@
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
+	<br>
     	<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ram927&layout=compact"><br><br>
 	<img src="https://github-readme-stats.vercel.app/api?username=ram927&show_icons=true">
 
