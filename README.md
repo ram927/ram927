@@ -10,7 +10,7 @@
 </head>
 <body>
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=mynxun1&fontSize=90" />
-	<h1>My Skills😀</h1>
+	<h1>Learing ✌</h1>
 	<img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/>
 	<img src="https://img.shields.io/badge/spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 	<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat&logo=Javascript&logoColor=white"/>
